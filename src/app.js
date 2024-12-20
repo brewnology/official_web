@@ -2,7 +2,7 @@ document.addEventListener('alpine:init', () => {
     Alpine.data('products', () => ({
         open: false,
         items: [
-            { id: 1, name: 'Kopi Power-S', img: 'img1.jpg', price: 16000 },
+            { id: 1, name: 'Kopi Power-S', img: 'img1.jpg', price: 15000 },
             { id: 2, name: 'Kopi Susu', img: 'img2.jpg', price: 12000 },
             // { id: 3, name: 'YAMALUBE Gear Motor Oil', img: 'img3.jpg', price: 17000 },
             // { id: 4, name: 'Fedral Matic 30', img: 'img4.jpg', price: 48000 },
